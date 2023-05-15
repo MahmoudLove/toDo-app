@@ -9,13 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "autoprefixer": "10.4.14",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
     "next": "13.4.2",
     "postcss": "8.4.23",
     "react": "18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dnd-touch-backend": "^16.0.1",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2"
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "tailwindcss": "3.3.2",
+    "tailwindcss-percentage-width": "^1.0.3"
   }
 }
